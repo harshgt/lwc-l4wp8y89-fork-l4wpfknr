@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/harshgt.lwc-l4wp8y89-fork-l4wpfknr",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve SIuhQefaXJOTgCa7GFWr --open"
+  }
+}
